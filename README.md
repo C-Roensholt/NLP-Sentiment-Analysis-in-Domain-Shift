@@ -1,4 +1,4 @@
-# Second Year Project - Group 4
+# Sentiment Analysis in Domain Shift
 
 #### Evaluating the affect of hand-crafted features in sentiment analysis
 
